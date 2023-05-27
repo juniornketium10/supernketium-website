@@ -1,6 +1,6 @@
-# VisualEditor
+# NketiumEditor
 
-VisualEditor provides a rich-text editor for HTML documents. It is written in
+NketiumEditor provides a rich-text editor for HTML documents. It is written in
 JavaScript and runs in a web browser.
 
 * [Live demo][]
@@ -13,7 +13,7 @@ page on mediawiki.org.
 ## Installing
 
 For information on setting up VisualEditor, please see
-https://www.mediawiki.org/wiki/VisualEditor/Setup
+https://www.mediawiki.org/wiki/NketiumEditor/Setup
 
 ## Developing
 
@@ -23,7 +23,7 @@ see [CONTRIBUTING.md][].  Patch submissions are reviewed and managed with
 VisualEditor.
 
 [Live demo]:         https://doc.wikimedia.org/VisualEditor/master/js/lib/ve/demos/ve/desktop-wikimediaui.html
-[VisualEditor]:      https://www.mediawiki.org/wiki/VisualEditor
+[NketiumEditor]:      https://www.mediawiki.org/wiki/VisualEditor
 [CONTRIBUTING.md]:   CONTRIBUTING.md
 [API documentation]: https://doc.wikimedia.org/VisualEditor/master/
 [Gerrit]:            https://www.mediawiki.org/wiki/Developer_account
