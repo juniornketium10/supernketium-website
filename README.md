@@ -6,7 +6,7 @@ JavaScript and runs in a web browser.
 * [Live demo][]
 * [API documentation][]
 
-For more information about the project, check out the [VisualEditor][]
+For more information about the project, check out the [NketiumEditor][]
 page on mediawiki.org.
 
 
@@ -20,7 +20,7 @@ https://www.mediawiki.org/wiki/NketiumEditor/Setup
 For information about running tests and contributing code to VisualEditor,
 see [CONTRIBUTING.md][].  Patch submissions are reviewed and managed with
 [Gerrit][].  There is also [API documentation][] available for the
-VisualEditor.
+NketiumEditor.
 
 [Live demo]:         https://doc.wikimedia.org/VisualEditor/master/js/lib/ve/demos/ve/desktop-wikimediaui.html
 [NketiumEditor]:      https://www.mediawiki.org/wiki/VisualEditor
