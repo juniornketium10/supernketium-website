@@ -12,7 +12,7 @@ page on mediawiki.org.
 
 ## Installing
 
-For information on setting up VisualEditor, please see
+For information on setting up NketiumEditor, please see
 https://www.mediawiki.org/wiki/NketiumEditor/Setup
 
 ## Developing
@@ -22,8 +22,8 @@ see [CONTRIBUTING.md][].  Patch submissions are reviewed and managed with
 [Gerrit][].  There is also [API documentation][] available for the
 NketiumEditor.
 
-[Live demo]:         https://doc.wikimedia.org/VisualEditor/master/js/lib/ve/demos/ve/desktop-wikimediaui.html
-[NketiumEditor]:      https://www.mediawiki.org/wiki/VisualEditor
+[Live demo]:         https://doc.wikimedia.org/VisualEditor/master/js/lib/ne/demos/ne/desktop-wikimediaui.html
+[NketiumEditor]:      https://www.mediawiki.org/wiki/NketiumEditor
 [CONTRIBUTING.md]:   CONTRIBUTING.md
-[API documentation]: https://doc.wikimedia.org/VisualEditor/master/
+[API documentation]: https://doc.wikimedia.org/NketiumEditor/master/
 [Gerrit]:            https://www.mediawiki.org/wiki/Developer_account
